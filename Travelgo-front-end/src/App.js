@@ -20,8 +20,6 @@ function App() {
   return (
     <div className="App">
 
-       
-
     <header>
       <Routes>
           <Route path='' element={<Home/>}></Route>

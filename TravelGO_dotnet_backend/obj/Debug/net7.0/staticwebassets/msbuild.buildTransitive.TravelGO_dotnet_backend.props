@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TravelGO_dotnet_backend.props" />
+</Project>
